@@ -1,2 +1,2 @@
 # DevOpsDemo
-DevOps Demo Asp.Net Core MVC application with xUnit Test Casess
+DevOps Demo Asp.Net Core MVC application with xUnit Test Cases
